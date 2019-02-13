@@ -70,31 +70,11 @@ p{
     line-height: 30px !important;
 }
 
-.background-black p{
-    color: white;
-}
 .outline img {
     width: 100%;
 }
 .font-bold{
     font-weight: bold;
-}
-
-.background-black a:link{
-    color: white;
-    -webkit-text-fill-color: white;
-
-}
-.background-white a:link{
-    color: black;
-    -webkit-text-fill-color: black;
-}
-
-.background-white a{
-    color: black;
-}
-.background-black a{
-    color: white;
 }
 .img-fullscreen img{
     width: 100%;
