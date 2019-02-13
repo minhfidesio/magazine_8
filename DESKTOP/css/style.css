@@ -91,6 +91,7 @@ p{
 }
 .img-notfull{
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .outline img, .img-notfull img{
     display: block;
@@ -106,6 +107,7 @@ p{
 }
 .full_screen{
     width: 100%;
+    margin: 20px 0;
 }
 .block-first{
     margin-top: 40px;
